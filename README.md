@@ -30,10 +30,8 @@ Checking these indicators can help identify phishing attempts and improve email 
 ## Interview Questions :
 
 1) How do you identify phishing?
-Phishing can be identified by checking the sender address, links, urgency, attachments, email content, and requests for sensitive information.
 
 2) What is spear phishing?
-Spear phishing is a targeted phishing attack designed for a specific person or organization.
 
 3) Why are shortened links risky?
-Shortened links can hide the actual destination, making it difficult to verify whether the website is safe.
+
